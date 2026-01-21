@@ -21,8 +21,8 @@ All data shown reflects **the last 7 days of telemetry**.
 
 ## ☁️ Azure Concepts (High-Level)
 
-- **Azure**: Microsoft’s cloud platform used to host applications, virtual machines, and networks.
-- **Entra ID Azure’s identity system that manages user logins.
+- **Azure**: Microsoft’s cloud platform.
+- **Entra ID Azure’s identity system that manages user activity.
 - **Virtual Machines Cloud-based computers that users can log into remotely.
 - **Network Security Groups (NSGs)**: Firewall rules that control what network traffic is allowed or blocked.
 - **Log Analytics / KQL**: Azure’s system for querying and analyzing large volumes of log data.
