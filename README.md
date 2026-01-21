@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="Boardroom at sunset with power players" src="https://github.com/user-attachments/assets/03968ab2-82f6-4744-b598-e00993c9e3eb" />
+
 # 🌍 Turning Azure Security Telemetry into Executive-Ready Insights
 ### 7-Day Enterprise Security Visibility Project
 
