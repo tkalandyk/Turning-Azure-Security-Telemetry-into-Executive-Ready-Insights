@@ -1,4 +1,4 @@
-# 🌍 Making Azure Security Telemetry Understandable with KQL & Maps  
+# 🌍 Turning Azure Security Telemetry into Executive-Ready Insights
 ### 7-Day Enterprise Security Visibility Project
 
 ---
